@@ -1,0 +1,44 @@
+[
+  {
+    "shoe_name": "Air Jordan 6 Retro cactus jack -Travis Scott",
+    "shoe_brand": "Air Jordan",
+    "shoe_price": 1594,
+    "size": [9, 10, 11, 12],
+    "color": "557054",
+    "images": ["Air_Jordan_1", "Air_Jordan_2"]
+  },
+  {
+    "shoe_name": "Air Jordan 1 Mid 'Melody Ehsani' sneakers",
+    "shoe_brand": "Air Jordan",
+    "shoe_price": 2502,
+    "size": [9, 10, 11, 12],
+    "color": "ed0018",
+    "images": ["Air_Jordan_3", "Air_Jordan_4"]
+  },
+  {
+    "shoe_name": "Air Jordan 1 High Tie-Dye sneakers",
+    "shoe_brand": "Air Jordan",
+
+    "shoe_price": 529,
+    "size": [9, 10, 11, 12],
+    "color": "009dc4",
+    "images": ["Air_Jordan_5", "Air_Jordan_6"]
+  },
+  {
+    "shoe_name": "Nike SB Zoom Blazer Mid",
+    "shoe_brand": "Nike",
+    "shoe_price": 85,
+    "size": [9, 10, 11, 12],
+    "color": "723f20",
+    "images": ["Nike_SB_1", "Nike_SB_2"]
+  },
+  {
+    "shoe_name": "Nike Air Presto",
+    "shoe_brand": "Nike",
+
+    "shoe_price": 829,
+    "size": [9, 10, 11, 12],
+    "color": "eb6048",
+    "images": ["Nike_Air_3", "Nike_Air_4"]
+  }
+]
